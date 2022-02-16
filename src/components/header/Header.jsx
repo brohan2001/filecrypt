@@ -6,10 +6,10 @@ const Header = (props) => {
 	return (
 		<Layout.Header className={headerCSS.header}>
 			<div className={headerCSS.brand}>
-				<h1>Cryption</h1>
+				<h1>FileCrypt</h1>
 			</div>
 			<div className={headerCSS.github}>
-				<a href="https://github.com/lagmoellertim/cryption" target="_blank" rel="noopener noreferrer">
+				<a href="https://github.com/brohan2001/filecrypt" target="_blank" rel="noopener noreferrer">
 					<Icon type="github" />
 				</a>
 			</div>
