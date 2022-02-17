@@ -42,8 +42,12 @@ npm install
 npm run-script build
 ```
 ## Images
+
+- Main Page
 ![](images/main_page.png)
 
+- After Successful Encryption
 ![](images/encrypted.png)
 
+- After Successful Decryption
 ![](images/decrypted.png)
