@@ -2,15 +2,15 @@
 
 # Subject: File Encryption Decryption System
 
-# Group Members
+## Group Members
 - Srinil Khandwala 1911023
 - Ali Solanki 1911030
 - Rohan Balasubramanian 1911044
 
-# Introduction
+## Introduction
 FileCrypt is an open-source tool that encrypts and decrypts your data in the browser and also checks the file integrity, making it impossible to manipulate data without the correct password.
 
-# Functionalities Implemented
+## Functionalities Implemented
 - Salt and Hash Key
 - Encryption/Decryption with AES
 - Generate MD5-Hash while encrypting
@@ -20,7 +20,7 @@ FileCrypt is an open-source tool that encrypts and decrypts your data in the bro
 - Password will add additional security
 
 
-# Installation
+## Installation
 
 ```sh
 # Clone the repository (stable branch)
@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-# Build
+## Build
 
 ```sh
 # Clone the repository (stable branch)
