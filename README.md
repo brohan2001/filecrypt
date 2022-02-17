@@ -25,8 +25,6 @@ FileCrypt is an open-source tool that encrypts and decrypts your data in the bro
 ```sh
 # Clone the repository (stable branch)
 git clone -b master https://github.com/brohan2001/filecrypt
-#Change Directory
-cd cryption
 # Install npm packages
 npm install
 # Start a local server
@@ -38,8 +36,6 @@ npm start
 ```sh
 # Clone the repository (stable branch)
 git clone -b master https://github.com/brohan2001/filecrypt
-#Change Directory
-cd cryption
 # Install npm packages
 npm install
 # Build the app 
