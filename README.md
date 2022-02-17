@@ -41,3 +41,9 @@ npm install
 # Build the app 
 npm run-script build
 ```
+## Images
+![](images/main_page.png)
+
+![](images/encrypted.png)
+
+![](images/decrypted.png)
